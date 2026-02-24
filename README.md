@@ -22,6 +22,6 @@ This project applies tree based machine learning methods to predict airline pass
 * **Robustness Insight:** The experiment revealed a critical trade off between complexity and stability; while the complex Random Forest performed best on clean data, the regularised Pruned Classification Tree proved to be the most stable and robust model when significant label noise was introduced.
 
 ## Installation Instructions
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/alperkaya862-prog/Predictions-of-the-overall-satisfaction-of-airline-passengers-based-on-different-flight-experiences.git`
 2. Install the required dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn`
 3. Run the Jupyter Notebook to view the data processing, model evaluation, and robustness experiment.
